@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: movielistrepos
-        image: truyumcr.azurecr.io/movielistrepos:latest
+        image: truyumcrr.azurecr.io/movielistrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
