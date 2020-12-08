@@ -1,0 +1,58 @@
+2020-12-08 11:01:40,335 Application started. Press Ctrl+C to shut down.
+2020-12-08 11:01:40,347 Hosting environment: Development
+2020-12-08 11:01:40,351 Content root path: C:\Users\alish\source\repos\truYum-Movies\MovieList
+2020-12-08 11:01:44,269 Http Get request Initiated
+2020-12-08 11:01:44,269 successfully got details
+2020-12-08 11:03:07,219 Application started. Press Ctrl+C to shut down.
+2020-12-08 11:03:07,230 Hosting environment: Development
+2020-12-08 11:03:07,232 Content root path: C:\Users\alish\source\repos\truYum-Movies\MovieList
+2020-12-08 11:45:36,079 Application started. Press Ctrl+C to shut down.
+2020-12-08 11:45:36,099 Hosting environment: Development
+2020-12-08 11:45:36,107 Content root path: C:\Users\alish\source\repos\truYum-Movies\MovieList
+2020-12-08 11:46:22,271 Application started. Press Ctrl+C to shut down.
+2020-12-08 11:46:22,284 Hosting environment: Development
+2020-12-08 11:46:22,287 Content root path: C:\Users\alish\source\repos\truYum-Movies\MovieList
+2020-12-08 11:47:38,491 Http Get request Initiated
+2020-12-08 11:47:38,492 successfully got details
+2020-12-08 11:48:48,917 Http Get request Initiated
+2020-12-08 11:48:48,918 successfully got details
+2020-12-08 11:50:38,990 Http Get request Initiated
+2020-12-08 11:50:38,990 successfully got details
+2020-12-08 11:51:05,603 HttpPost Request Initiated for Id 1004
+2020-12-08 11:51:05,604 Model state is  valid for Id 1004
+2020-12-08 11:51:05,675 Http Get request Initiated
+2020-12-08 11:51:05,675 successfully got details
+2020-12-08 11:59:49,632 Http Get request Initiated
+2020-12-08 11:59:49,632 successfully got details
+2020-12-08 11:59:52,302 Http get request initiated with 1001
+2020-12-08 11:59:52,303 Found Matching menu item
+2020-12-08 11:59:52,429 Http Get request Initiated
+2020-12-08 11:59:52,429 successfully got details
+2020-12-08 11:59:54,182 Http get request initiated with 1001
+2020-12-08 11:59:54,182 Found Matching menu item
+2020-12-08 11:59:54,226 Http Get request Initiated
+2020-12-08 11:59:54,226 successfully got details
+2020-12-08 12:00:01,592 Http Get request Initiated
+2020-12-08 12:00:01,592 successfully got details
+2020-12-08 12:01:46,381 Http Get request Initiated
+2020-12-08 12:01:46,381 successfully got details
+2020-12-08 12:01:50,876 Http Get request Initiated
+2020-12-08 12:01:50,876 successfully got details
+2020-12-08 12:02:56,908 Http Get request Initiated
+2020-12-08 12:02:56,908 successfully got details
+2020-12-08 12:02:58,839 Http get request initiated with 1004
+2020-12-08 12:02:58,840 Found Matching menu item
+2020-12-08 12:02:58,901 Http Get request Initiated
+2020-12-08 12:02:58,902 successfully got details
+2020-12-08 12:02:59,314 Http get request initiated with 1003
+2020-12-08 12:02:59,314 Found Matching menu item
+2020-12-08 12:02:59,353 Http Get request Initiated
+2020-12-08 12:02:59,354 successfully got details
+2020-12-08 12:02:59,803 Http get request initiated with 1002
+2020-12-08 12:02:59,804 Found Matching menu item
+2020-12-08 12:02:59,855 Http Get request Initiated
+2020-12-08 12:02:59,855 successfully got details
+2020-12-08 12:03:00,145 Http get request initiated with 1001
+2020-12-08 12:03:00,145 Found Matching menu item
+2020-12-08 12:03:00,176 Http Get request Initiated
+2020-12-08 12:03:00,176 successfully got details
